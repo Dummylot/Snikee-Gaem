@@ -1,5 +1,7 @@
-Introducing Snikee-Gaem
-a game made by neo696969
+# Introducing Snikee-Gaem
+
+
+A game made by neo696969
 published by Dummylot
 this is just a cool game that my friend made
 i bet you cant have 100 score in the original version 
