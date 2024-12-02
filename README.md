@@ -16,4 +16,4 @@ this server also made by my friend so join if you want ;)
 if you cant run the game try running `setup.bat`
 
 ## credit
-This is his original repo https://github.com/neo696969/Snikee-Gaem
+[This is his original repo](https://github.com/neo696969/snake-gaem)
